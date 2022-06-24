@@ -51,31 +51,6 @@ void matahari() {
 	glTranslatef(40.0, 140.0, 500.0);
 	glutSolidSphere(50.0, 40, 40);
 	glPopMatrix();
-	/*
-	glPushMatrix();
-	glColor3f(1.0, 1.0, 1.0);
-	glTranslatef(40.0, 140.0, 500.0);
-	glutSolidSphere(60.0, 50, 50);
-	glPopMatrix();
-	
-	glPushMatrix();
-	glColor3f(1.0, 1.0, 1.0);
-	glTranslatef(40.0, 140.0, 500.0);
-	glutSolidSphere(70.0, 60, 60);
-	glPopMatrix();
-	
-	glPushMatrix();
-	glColor3f(1.0, 1.0, 1.0);
-	glTranslatef(40.0, 140.0, 500.0);
-	glutSolidSphere(80.0, 70, 70);
-	glPopMatrix();
-	
-	glPushMatrix();
-	glColor3f(1.0, 1.0, 1.0);
-	glTranslatef(40.0, 140.0, 500.0);
-	glutSolidSphere(90.0, 80, 80);
-	glPopMatrix();
-	*/
 }
 
 //awan
@@ -95,38 +70,6 @@ void awan(){
 	glTranslatef(0.0, 160.0, 500.0);
 	glutSolidSphere(50.0, 40, 40);
 	glPopMatrix();
-	
-	/*
-	glPushMatrix();
-	glColor3f(1.0, 1.0, 1.0);
-	glutSolidSphere(7, 50, 50);
-	glPopMatrix();
-	
-	glPushMatrix();
-	glColor3f(1, 1, 1);
-	glTranslatef(-75, 2110, -120);
-	glutSolidSphere(12, 270, 50);
-	glScalef(10.8, 5.0, 16.0);
-	glPopMatrix();
- 
-	glPushMatrix();
-	glTranslatef(-75, 2110, -115);
-	glutSolidSphere(7, 50, 10);
-	glScalef(15.8, 50.0, 17.0);
-	glPopMatrix();
- 
-	glPushMatrix();
-	glTranslatef(-75, 2520, -120);
-	glutSolidSphere(20, 50, 30);
-	glScalef(25.8, 8.0, 13.0);
-	glPopMatrix();
- 
-	glPushMatrix();
-	glTranslatef(-75, 2190, -120);
-	glutSolidSphere(7, 20, 50);
-	glScalef(7.8, 35.0, 19.0);
-	glPopMatrix();
-	*/
 }
 
 void pohon() {
